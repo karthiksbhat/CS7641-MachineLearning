@@ -1,4 +1,7 @@
-The code and datasets are available at: https://github.com/karthiksbhat/CS7641-MachineLearning
+The code is available at: https://github.com/karthiksbhat/CS7641-MachineLearning
+The datasets are available at:
+FIFA 19 - https://www.kaggle.com/karangadiya/fifa19
+Fashion MNIST - https://www.kaggle.com/zalando-research/fashionmnist
 
 In order to run the code, please have python, matplotlib, sklearn, numpy, and pandas installed
 Please make sure to change the location of dataset files in the different python scripts (It is currently hardcoded to my computer's file structure -- the repository was created late for the sake of the submission)
