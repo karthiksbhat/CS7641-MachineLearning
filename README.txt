@@ -4,7 +4,7 @@ FIFA 19 - https://www.kaggle.com/karangadiya/fifa19
 Fashion MNIST - https://www.kaggle.com/zalando-research/fashionmnist
 
 In order to run the code, please have python, matplotlib, sklearn, numpy, and pandas installed
-Please make sure to change the location of dataset files in the different python scripts (It is currently hardcoded to my computer's file structure -- the repository was created late for the sake of the submission)
+Please make sure to change the location of dataset files in the different python scripts (It is currently hardcoded to my computer's file structure -- the repository was created later for the sake of the submission)
 These are found on:
 1. line 19-20 in fifa-analysis.py
 2. line 21-22 in fashion-mnist.py
@@ -12,7 +12,7 @@ These are found on:
 
 For FIFA dataset,
 1. Run fifa-data-preprocessing.py first (`python fifa-data-preprocessing.py` on terminal from within the the files' location)
-2. This code will clean the code, remove extraneous attributes etc, and write into two files for testing and training.
+2. This code will clean the dataset (remove empty values etc), remove extraneous attributes etc, and write into two files for testing and training.
 
 Following running the preprocessing file...
 For both datasets, (`python fifa-analysis.py` or `python fashion-mnist.py` on terminal from within the the files' location)
