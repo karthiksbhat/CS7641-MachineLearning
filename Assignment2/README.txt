@@ -15,14 +15,16 @@ For FIFA dataset,
 2. This code will clean the dataset (remove empty values etc), remove extraneous attributes etc, and write into two files for testing and training.
 
 %% This is for the Assignment 2 %%
-To run the NN random optimization code:
+To run the NN random optimization code (ann-randomOptimization.ipynb):
 1. Install 'mlrose' python package (pip install mlrose)
 2. Install jupyter -- the code is submitted as a Jupyter notebook.
+2.1 Run Jupyter from within the assignment2/ folder
 3. As before, make sure that the datasets are in the right folder, or that the locations are changed to match your laptop's file structure.
 4. Run each block of code as necessary.
 5. There exists a demarcating line ("# ----------...") that separates working code from earlier trial and messed up code.
 
 To run the Problems code: (This code has been taken from https://github.com/cmaron/CS-7641-assignments; the readme too will be very similar.)
+0. The code folder is RandomOpt-Problems/assignment2
 1.  pip install -r requirements.txt
 2. Install jython!
 3. Run `jython continuouspeaks.py` or `jython flipflop.py` or `jython tsp.py` depending on the problem you're running for; this generates output CSVs of different values.
