@@ -1,0 +1,3 @@
+iteration,MSE_trg,MSE_val,MSE_tst,acc_trg,acc_val,acc_tst,f1_trg,f1_val,f1_tst,elapsed
+iteration,MSE_trg,MSE_val,MSE_tst,acc_trg,acc_val,acc_tst,f1_trg,f1_val,f1_tst,elapsed
+iteration,MSE_trg,MSE_val,MSE_tst,acc_trg,acc_val,acc_tst,f1_trg,f1_val,f1_tst,elapsed
