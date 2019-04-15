@@ -7,4 +7,4 @@ https://github.com/juanjose49/omscs-cs7641-machine-learning-assignment-4/blob/ma
 There, 1's represent walls, and 0's represent open spaces. I modified those for my "hardWorld2" environment.
 
 I used plotter.py (uploaded here: https://github.com/karthiksbhat/CS7641-MachineLearning/tree/master/Assignment4)
-to plot the results from the above code. These results are written onto the console in eclipse, as explained in the above documentation.
+to plot the results from the above code. These results are written onto the console in eclipse, as explained in the above documentation. They were copied over to arrays in the above code and platted using matplotlib.
